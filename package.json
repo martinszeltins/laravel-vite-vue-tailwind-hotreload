@@ -5,6 +5,9 @@
         "build": "vite build"
     },
     "devDependencies": {
-        "vite": "^2.8.6"
+        "vite": "^2.8.6",
+        "autoprefixer": "^10.0.2",
+        "postcss": "^8.1.10",
+        "tailwindcss": "^2.0.1"
     }
 }

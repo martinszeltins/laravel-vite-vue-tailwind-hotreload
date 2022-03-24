@@ -20,6 +20,6 @@
     </head>
 
     <body>
-        <box>Hello, world!!!</box>
+        <box class="text-gray-500 text-2xl">Hello, world!!!</box>
     </body>
 </html>
