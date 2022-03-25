@@ -4,10 +4,14 @@
         "dev": "vite",
         "build": "vite build"
     },
+    "dependencies": {
+        "vue": "^3.2.25"
+    },
     "devDependencies": {
-        "vite": "^2.8.6",
-        "autoprefixer": "^10.0.2",
-        "postcss": "^8.1.10",
-        "tailwindcss": "^2.0.1"
+        "autoprefixer": "^10.4.4",
+        "postcss": "^8.4.12",
+        "@vitejs/plugin-vue": "^2.2.0",
+        "tailwindcss": "^3.0.23",
+        "vite": "^2.8.6"
     }
 }

@@ -20,6 +20,8 @@
     </head>
 
     <body>
-        <box class="text-gray-500 text-2xl">Hello, world!!!</box>
+        <div id="app" class="text-gray-500 text-2xl">
+
+        </div>
     </body>
 </html>
